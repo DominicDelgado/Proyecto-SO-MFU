@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ProyectoSO\ProyectoSO\bin\Debug\net10.0\ProyectoSO.exe
+C:\Users\HP\source\repos\ProyectoSO\ProyectoSO\bin\Debug\net10.0\ProyectoSO.deps.json
+C:\Users\HP\source\repos\ProyectoSO\ProyectoSO\bin\Debug\net10.0\ProyectoSO.runtimeconfig.json
+C:\Users\HP\source\repos\ProyectoSO\ProyectoSO\bin\Debug\net10.0\ProyectoSO.dll
+C:\Users\HP\source\repos\ProyectoSO\ProyectoSO\bin\Debug\net10.0\ProyectoSO.pdb
+C:\Users\HP\source\repos\ProyectoSO\ProyectoSO\obj\Debug\net10.0\ProyectoSO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ProyectoSO\ProyectoSO\obj\Debug\net10.0\ProyectoSO.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ProyectoSO\ProyectoSO\obj\Debug\net10.0\ProyectoSO.AssemblyInfo.cs
+C:\Users\HP\source\repos\ProyectoSO\ProyectoSO\obj\Debug\net10.0\ProyectoSO.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProyectoSO\ProyectoSO\obj\Debug\net10.0\ProyectoSO.dll
+C:\Users\HP\source\repos\ProyectoSO\ProyectoSO\obj\Debug\net10.0\refint\ProyectoSO.dll
+C:\Users\HP\source\repos\ProyectoSO\ProyectoSO\obj\Debug\net10.0\ProyectoSO.pdb
+C:\Users\HP\source\repos\ProyectoSO\ProyectoSO\obj\Debug\net10.0\ProyectoSO.genruntimeconfig.cache
+C:\Users\HP\source\repos\ProyectoSO\ProyectoSO\obj\Debug\net10.0\ref\ProyectoSO.dll
